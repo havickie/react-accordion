@@ -9,7 +9,7 @@
 [react icons](https://react-icons.github.io/react-icons/)
 
 ```
-npm install react-icons --save
+yarn add react-icons --save
 ```
 
 ```javascript
